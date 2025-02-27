@@ -524,7 +524,7 @@ a {
 }
 
 .footer .row strong {
-    font-family: "Lato", serif;
+    /* font-family: "Lato", serif; */
     color: #1c1c1d;
     font-size: 2rem;
     font-weight: 700;
